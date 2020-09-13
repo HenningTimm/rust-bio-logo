@@ -1,6 +1,7 @@
 
 logos = [
     "bioferris",
+    "bioferris_padded",
     "bioferris_thin_strand",
     "bioferris_thick_strand",
     "bioferris_light_strand",
