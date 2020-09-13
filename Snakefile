@@ -1,11 +1,11 @@
 
 logos = [
-    "rust_bio_logo",
-    "rust_bio_logo_intermediate_light_strand",
-    "rust_bio_logo_intermediate_strand",
-    "rust_bio_logo_thick_strand",
-    "rust_bio_logo_alt",
-    "rust_bio_logo_alt_front",
+    "bioferris",
+    "bioferris_thin_strand",
+    "bioferris_thick_strand",
+    "bioferris_light_strand",
+    "bioferris_curly_back",
+    "bioferris_curly_front",
 ]
 
 resolutions = [
